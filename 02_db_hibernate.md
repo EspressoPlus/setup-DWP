@@ -1,7 +1,6 @@
 # make database in MySQL Workbench
-* demo this
-* database is hbstudent
-* 
+* 04-Setup_Sample_Data.mkv
+* demonstrate hbstudent database in Workbench 
 
 # Hibernate ORM
 * ORM = Object-to-Relational Mapping
