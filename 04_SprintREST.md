@@ -1,0 +1,4 @@
+
+
+jackson-databind
+spring-aop
